@@ -1,7 +1,0 @@
-Robert Fabbro
-1001724536
-
---output--
-
-Implemented Naive Bayes:  96.0
-Scikit-learn Naive Bayes:  96.0
